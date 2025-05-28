@@ -1,5 +1,11 @@
-## Hi there 👋
+## 👋 我是 yuhhhy
+-🔭我目前正在做：https://github.com/yuhhhy/blog-vue-koa
+-🌱我目前正在深入学习：JavaScript, Vue
+-📫如何联系我：281423846@qq.com
+-⚡有趣的事实：蜂蜜是唯一不会变质的食物，仙女座星系会在约40亿年后与银河系相撞
 
+## 我的技能
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,vue,vite,pinia,nodejs,express,docker,c,java,vim)](https://skillicons.dev)
 <!--
 **yuhhhy/yuhhhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
