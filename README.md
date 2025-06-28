@@ -1,6 +1,6 @@
 ## 👋 我是 yuhhhy
 - 🔭我目前正在做：https://github.com/yuhhhy/blog-vue-koa
-- 🌱我目前正在深入学习：JavaScript, Vue, TypeScript...
+- 🌱我目前正在深入学习：JavaScript, TypeScript, Vue, React...
 - 📫如何联系我：yuhhhy109@163.com
 - ⚡有趣的事实：蜂蜜是唯一不会变质的食物，仙女座星系会在约40亿年后与银河系相撞
 
